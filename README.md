@@ -1,7 +1,15 @@
-👋 Hi, I’m Alok Raj.
-👀 I’m interested in technology, data and other similar stuff.
-🌱 I’m currently learning DSA and Web Development.
-💞️ I’m looking to collaborate on front end projects.
-📫 Reach me through E-mail: aloksingh0565@gmail.com
-😄 Pronouns: he/him
-⚡ Fun fact: They say I'm different but what I see is they all just same.
+👋 Hi, I'm Alok Raj.
+
+💻 CS student | Java | DSA | JavaScript | Frontend | Web Scraping
+
+🌱 Always learning, building, and experimenting with new technologies.
+
+🔨 Interested in software development, data, automation, and open source.
+
+🤝 Open to collaborating on interesting projects.
+
+📫 aloksingh0565@gmail.com
+
+😄 He/Him
+
+⚡ Different by choice, curious by nature.
